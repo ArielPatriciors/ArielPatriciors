@@ -27,7 +27,7 @@
 
 <a href="https://github.com/ArielPatriciors/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=ArielPatriciors" />
-</a>
+</a><br>
 <a href="https://github.com/ArielPatriciors/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ArielPatriciors&layout=compact&langs_count=8&card_width=320" />
 </a>
